@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.robot.solver"
+    namespace = "com.floating.robot"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.robot.solver"
+        applicationId = "com.floating.robot"
         minSdk = 26
         targetSdk = 34
         versionCode = 2
